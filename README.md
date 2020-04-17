@@ -4,7 +4,7 @@ CLI tool to analysis dump data from poe.ninja including graphs, most explainatio
 
 This project used data-dump files from poe.ninja/data-dumps on a popular ARPG, Path of Exile, to create anaytlics and analysis for players evaluating the Path of Exile economies.
 
-##Installation
+## Installation
 
 After pulling the files the data-dumps are added to raw-data section, from there the tool can be setup and used using the following sub-commands
 
