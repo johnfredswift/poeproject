@@ -17,6 +17,6 @@ The graph from this is created and put within the graphs folder.
 
 `json` Expects no arguements, Outputs a JSON file with information on all the leagues, this serves as a fast way of accessing the basic information without additional looking outside of the tool.
 
-## Infomation
+## Additional Infomation
 
 There is also test files included to help diagnose and ensure proper installition. These are all implimented as GoLang tests.
